@@ -21,7 +21,7 @@ setTimeout(function () {
                                     setTimeout(function () {
                                         countdownElement.textContent = "1";
                                         setTimeout(function () {
-                                            countdownElement.innerHTML = "I Love You Poojhaa! &#x1F496"; // Flower heart emoji
+                                            countdownElement.innerHTML = "Happy New Year🎆"; 
                                         }, 1000);
                                     }, 1000);
                                 }, 1000);

@@ -21,7 +21,7 @@ setTimeout(function () {
                                     setTimeout(function () {
                                         countdownElement.textContent = "1";
                                         setTimeout(function () {
-                                            countdownElement.innerHTML = "Please Forgive Me Poojhaa🎆"; 
+                                            countdownElement.innerHTML = "🎆"; 
                                         }, 1000);
                                     }, 1000);
                                 }, 1000);

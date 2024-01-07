@@ -21,7 +21,7 @@ setTimeout(function () {
                                     setTimeout(function () {
                                         countdownElement.textContent = "1";
                                         setTimeout(function () {
-                                            countdownElement.innerHTML = "Happy New Year🎆"; 
+                                            countdownElement.innerHTML = "Please Forgive Me Poojhaa🎆"; 
                                         }, 1000);
                                     }, 1000);
                                 }, 1000);
